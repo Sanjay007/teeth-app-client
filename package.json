@@ -30,8 +30,12 @@
     "styled-components": "^5.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.6",
-     "expo-cli": "^4.0.16"
+    "expo-cli": "^4.0.16",
+    "@babel/core": "~7.9.0",
+    "@types/react": "~16.9.35",
+    "@types/react-native": "~0.63.2",
+    "jest-expo": "~40.0.0",
+    "typescript": "~4.0.0"
   },
   "private": true
 }
